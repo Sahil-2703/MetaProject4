@@ -10,7 +10,7 @@ This program is written in the Solidity, a language used to develop a smart cont
 
 ### Execution program 
 
-To run this program you can use any use Remix IDE or any online Solidity IDE. Firstly in this program there are two functions, namely mint() and burn(). In mint(), we can mint token from the user from the address of user and in burn(), we can burn the minted token easily. This token is made from ERC20 token that can easily be found on openzipline site.
+To run this program you can use any use Remix IDE or any online Solidity IDE. Firstly in this program there are two functions, namely mint() and burn(). In mint(), we can mint token from the user from the address of user and in burn(), we can burn the minted token easily. This token is made from ERC20 token that can easily be found on openzipplin site.
 
 '''
 Smart Contract
