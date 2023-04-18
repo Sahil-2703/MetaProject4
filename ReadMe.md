@@ -2,10 +2,6 @@
 
 This solidity progrom is based on the ERC20 token where our own token has been made to mint the token from the owner.
 
-## Description
-
-This program is written in the Solidity, a language used to develop a smart contract for ethereum.
-
 ## Getting Started
 
 ### Execution program 
@@ -34,6 +30,3 @@ contract myToken is ERC20 {
 
 This code will automatically compile after saving the program but if not then click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile HelloWorld.sol" button. After compiling, deploy this contract and after deploying it you'll be able to see the mint() and burn() funtion. Simply put the address of another account and amount to mint and there you go, you've successfully run this program.
 
-## Author
-
-Sahil Singh
