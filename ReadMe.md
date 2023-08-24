@@ -30,3 +30,5 @@ contract myToken is ERC20 {
 
 This code will automatically compile after saving the program but if not then click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile HelloWorld.sol" button. After compiling, deploy this contract and after deploying it you'll be able to see the mint() and burn() funtion. Simply put the address of another account and amount to mint and there you go, you've successfully run this program.
 
+
+[![Sahil-2703's GitHub | Stats](https://stats.quine.sh/Sahil-2703/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Sahil-2703)
